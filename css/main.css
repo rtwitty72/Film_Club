@@ -1,0 +1,90 @@
+.Nav_Bar{
+  list-style: none;
+  color: red;
+
+}
+#Logo{
+  background-size:cover;
+  background-image:url('../images/filmclub.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}
+
+#Home{
+  background-color: #00A6BC;
+  color: #FFFFFF;
+  height: 36px;
+}
+
+#Calendar{
+  background-color: #00B8D0;
+  border-color: #00B8D0;
+  color: #FFFFFF;
+  height: 36px;
+}
+
+#Join{
+  background-color: #00D6E5;
+  color: #FFFFFF;
+  height: 36px;
+}
+
+h2{
+  background-color: #07193F;
+  color: #FFFFFF;
+  width: 316px;
+
+}
+
+.Main_Text p{
+  display: ;
+  flex-wrap: wrap;
+  width: 40%;
+}
+
+.UpNext{
+color: red;
+}
+
+.NextHolder{
+  list-style: none;
+  border-color: #071941;
+  border-style: solid;
+  border-top-width: 69px;
+  border-left-width: medium;
+  border-right-width: medium;
+  border-bottom-width: thick;
+  color: red;
+  z-index: 0;
+}
+.UpNext h1{
+  font-size: 30px;
+  color: red;
+  z-index: 1;
+  margin-top:
+}
+
+
+.Next{
+  font-size: 20px;
+  color: red;
+  background-image: url('../images/rashomon-poster.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 140px;
+  height: 199px;
+
+}
+
+.Next a{
+display: flex;
+font-size: 16px;
+}
+
+.movie_list{
+  background-image: url('../images/great-train-poster.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
